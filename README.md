@@ -21,6 +21,15 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadluay9&theme=dark&radius=10" alt="ahmadluay9's Activity Graph" />
 </p>
 
+## 🏆 Certifications
+<p align="center">
+  <a href="https://www.credly.com/badges/f58f3077-1f94-4dad-a0cc-218622695026" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="200" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/f4a213bc-6542-420c-9c26-76578a5abdb1" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" alt="Professional Machine Learning Engineer Certification" width="200" />
+  </a>
+</p>
 
 ## 🛠️ Languages & Tools
 
