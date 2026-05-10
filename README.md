@@ -17,9 +17,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ahmadluay9&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ahmad Luay Adnani's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadluay9&theme=dark&radius=10" alt="ahmadluay9's Activity Graph" />
-</p>
 
 ## 🏆 Certifications
 <p align="center">
