@@ -7,17 +7,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ahmadluay9">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadluay9&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ahmadluay9's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ahmadluay9&theme=dark&hide_border=true&cache_seconds=86400" alt="ahmadluay9's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ahmadluay9&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ahmad Luay Adnani's GitHub Trophies" />
-</p>
-
 ## 🏆 Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/f58f3077-1f94-4dad-a0cc-218622695026"><img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" alt="AWS Certified Machine Learning Engineer – Associate" width="200" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -59,6 +48,17 @@
   <a href="https://github.com/ahmadluay9">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmadluay9&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
   </a>
+</p>
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/ahmadluay9">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmadluay9&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="ahmadluay9's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ahmadluay9&theme=dark&hide_border=true&cache_seconds=86400" alt="ahmadluay9's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=ahmadluay9&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ahmad Luay Adnani's GitHub Trophies" />
 </p>
 
 ## 🔗 Connect with Me
